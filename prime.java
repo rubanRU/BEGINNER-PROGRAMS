@@ -13,10 +13,10 @@ public class prime{
               }
           }
            if(f==0){
-               System.out.println("IT IS PRIME");
+               System.out.println("YES");
            }
          else{
-               System.out.println("Not prime");
+               System.out.println("NO");
          }
 
     }
