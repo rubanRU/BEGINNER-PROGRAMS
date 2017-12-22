@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class repeat{
+public class armst{
       public static void main(String aa[]){
            int n,p,q;
            int f;
