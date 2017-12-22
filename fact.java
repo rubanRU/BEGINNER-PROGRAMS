@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class repeat{
+public class fact{
       public static void main(String aa[]){
            int n,p;
            int f=1;
