@@ -6,7 +6,7 @@ public class dotsp{
      String a;
      Scanner s=new Scanner(System.in);
      a=s.nextLine();
-     String h[]=a.split("\\.");
+     String h[]=a.split("\\;");
      for(int i=0;i<h.length;i++){
          System.out.printf("%s ",h[i]);
      }
